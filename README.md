@@ -32,6 +32,8 @@ PyCommand is a simple but powerful command-line interface that combines everyday
 | `exit`               | Close the application                |
 
 ---
+## Download
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/Yuvraj-Singh77/PyCommand--personal-productivity-utility-toolkit/releases/latest/download/main.exe)
 
 ## How to Run
 
@@ -42,4 +44,5 @@ PyCommand is a simple but powerful command-line interface that combines everyday
 3. Open a terminal in the project folder and run:
 
 ```bash
-[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/Yuvraj-Singh77/PyCommand--personal-productivity-utility-toolkit/releases/latest/download/main.exe)
+python main.py
+'''
